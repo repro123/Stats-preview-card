@@ -50,6 +50,7 @@ main {
 .card-component__image-half img {
   border-radius: 0.75rem 0.75rem 0 0;
   object-fit: cover;
+  height: 100%;
   width: 100%;
   display: block;
 }
